@@ -1,0 +1,76 @@
+body{
+    background-color: beige;
+
+  }
+.logo{
+    opacity: .5;
+    width: 150px;
+    height: 100px;
+}
+
+*{
+    margin: auto;
+    padding: auto;
+    border-radius: 12px;
+    
+}
+nav{
+    display: flex;
+     width: 84%;
+     margin: auto;
+    padding: 20px 0;
+    align-items: center;
+    justify-content: space-between; 
+}
+nav a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    margin: auto;
+    font-family:'Dancing Script', cursive;;;
+}
+.insta{
+    width: 170px;
+    height: 100px;
+    opacity: 1;
+    padding:2%;
+    margin-left: auto;
+    margin: auto;
+}
+.linked{
+    width: 300px;
+    height: 100px;
+    padding:2%;
+    margin: auto;
+    float:right;
+}
+.head{
+    text-align: center;
+    font-family: 'Rubik Iso', cursive;
+    font-size:x-large;
+}
+.edu{
+    background-color: lightblue;
+}
+.car{   
+    background-color:lightpink;
+    float: left;
+}
+.ggitsimg{
+    height: 200px;
+    width: 200px;
+    margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
+  float: right;
+}
+.career{
+    height: 200px;
+    width: 200px;
+    margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
+  float: right;
+}
